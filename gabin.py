@@ -1,1 +1,4 @@
-print("Hello World")
+def gabin():
+    print("Gabin")
+
+gabin()
